@@ -1,4 +1,4 @@
-# ici viendra quelques explications
+# Ici quelques explications (à completer par la suite)
 
 Découvert de Git et Github
 
